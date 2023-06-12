@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "./Card";
-import contacts from "../../Contacts";
+import contacts from "../Contacts";
 
 function createCard(contact) {
   return (
