@@ -1,0 +1,43 @@
+body {
+  background-color: #d8d8d8;
+}
+.heading {
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Lilita One", cursive;
+}
+.card {
+  position: relative;
+  text-align: center;
+}
+
+.name {
+  /* position: relative; */
+  font-family: "Montserrat", sans-serif;
+  background-color: #ef750f;
+  border-top-left-radius: 3rem;
+  border-top-right-radius: 3rem;
+  text-align: left;
+  margin: 3rem 25rem 0;
+  padding: 1rem 1rem 1rem 2rem;
+}
+.bottom {
+  /* position: relative; */
+  font-family: "Montserrat", sans-serif;
+  background-color: #f0a251;
+  border-bottom-left-radius: 3rem;
+  border-bottom-right-radius: 3rem;
+  text-align: left;
+  margin: 0 25rem;
+  padding: 1rem 1rem 1rem 2rem;
+}
+
+.image {
+  position: absolute;
+  height: 120px;
+  width: 120px;
+  border-radius: 100%;
+  border: 6px solid white;
+  top: 2rem;
+  right: 27rem;
+}
